@@ -3,7 +3,7 @@ import { ProjectItem, CertificateItem, ExperienceItem, EducationItem, SkillCateg
 export const personalInfo = {
   name: 'Dimas Pratama',
   role: 'Visual & UI/UX Designer • Creative Technologist',
-  location: 'Bandar Lampung, Indonesia',
+  location: 'Bekasi, Indonesia',
   bio: 'Desainer antarmuka digital dan identitas visual dengan pendekatan terstruktur dalam membangun sistem desain berskala, estetika visual presisi, dan pengalaman digital yang berpusat pada dampak nyata. Memadukan sensitivitas tipografi modern dengan arsitektur informasi yang intuitif.',
   tagline: 'Merancang sistem identitas visual yang distingtif, antarmuka digital bernilai tinggi, dan pengalaman pengguna yang menyatukan estetika serta fungsionalitas bisnis.',
   status: 'Tersedia untuk Kontrak & Proyek Penuh (Demo)',
@@ -348,7 +348,7 @@ export const cvData = {
   subtitle: 'Ringkasan komprehensif profil profesional, riwayat pencapaian, kapabilitas teknis, dan portofolio karya Dimas Pratama dalam format standar rekrutmen internasional.',
   fullName: 'Dimas Pratama',
   headline: 'Visual & UI/UX Designer • Creative Technologist',
-  contactSummary: 'Bandar Lampung, Indonesia • dimas.pratama.design@gmail.com • +62 812-3456-7890',
+  contactSummary: 'Bekasi, Indonesia • dimas.pratama.design@gmail.com • +62 812-3456-7890',
   summaryText: 'Desainer antarmuka digital dan spesialis identitas visual dengan rekam jejak dalam merancang sistem desain multi-platform, prototipe aplikasi mobile fungsional, dan identitas merek holistik. Memadukan kemahiran eksekusi teknis di Figma (Variables, Tokens, Auto-layout) dengan pemahaman mendalam tentang prinsip aksesibilitas antarmuka (WCAG 2.1 AA) dan kebutuhan bisnis klien. Siap berkontribusi secara langsung dalam tim produk digital inovatif.',
   coreCompetencies: [
     'Design Systems & Token Architecture (Figma Variables)',

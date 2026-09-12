@@ -157,7 +157,7 @@ export const Contact: React.FC = () => {
                 </p>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed font-normal pt-2 border-t border-stone-100">
-                Terbuka untuk kesempatan magang remote, penugasan hybrid di sekitar Lampung, maupun proyek freelance visual nasional.
+                Terbuka untuk kesempatan kerja remote, penugasan on-site/hybrid di area Jabodetabek (Jakarta, Bogor, Depok, Tangerang, Bekasi), maupun proyek freelance digital nasional.
               </p>
             </div>
 
